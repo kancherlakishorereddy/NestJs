@@ -6,5 +6,7 @@ Learning NestJs Framework
 A basic CRUD API build using NESTJs, MongoDB
 
 Endpoint at /items
+
 operations:
-  GET,POST,DELETE,PUT
+
+      GET,POST,DELETE,PUT
